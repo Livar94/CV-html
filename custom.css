@@ -1,0 +1,59 @@
+.every-thing {
+    margin-left: 30em;
+}
+
+.ec-utb > img {
+    height: 30px;
+    margin-top: 2em;
+    
+}
+
+.sidenav {
+    height: 93%;
+    width: 300px;
+    margin-top: 5em;
+    background-color: #E2D8CE;
+}
+
+.inner-sidenav > img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 3rem;
+}
+
+.text-bpk {
+    background-color: #373741;
+    color: white;
+    margin: 2em;
+    padding: 0.3em;
+}
+
+.p-tag {
+    margin: 2em;
+    padding: 0.3em;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    
+  }
+
+.description {
+    margin-left: 0.5em;
+    padding: 0px 10px;
+    margin-top: 5rem;
+    margin-right: 30em;    
+}
+
+.info-1 {
+    background-color: #373741;
+    color: white;
+    margin-left: -1.1em;
+    text-align: center;
+    padding: 3em;
+}
+
